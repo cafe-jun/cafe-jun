@@ -39,6 +39,8 @@
 <!--  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsshin)](https://solved.ac/jsshin/)
 </div>
 
 <!--
