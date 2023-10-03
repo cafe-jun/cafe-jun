@@ -5,7 +5,7 @@
 
 #  :wave: 안녕하세요 백엔드 개발자 신준석입니다. !
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcafe-jun&count_bg=%2322A4D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcafe-jun&count_bg=%2322A4D3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ###  :# 💪Skills
 <br/>  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -23,8 +23,8 @@
  
 #### :pencil2: Study log
   <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafe-jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
-[![cafe-jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe-jun&show_icons=true&theme=transparent)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafe-jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![cafe-jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe-jun&show_icons=true&theme=transparent)
 <!--  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
 -->
