@@ -26,6 +26,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafe-jun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 
+<br />
+
 ![cafe-jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafe-jun&show_icons=true&theme=transparent)
 <!--  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
